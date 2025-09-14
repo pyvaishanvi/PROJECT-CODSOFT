@@ -1,6 +1,6 @@
 import qrcode
 
-# Data to be encoded
+
 data = "https://www.google.com"
 
 # Create QR code

@@ -1,6 +1,14 @@
 [
     {
-        "Task": "play 2 freefire game",
+        "Task": "hi how are you",
+        "Completed": false
+    },
+    {
+        "Task": "pay fees",
+        "Completed": true
+    },
+    {
+        "Task": "say hii to codsoft",
         "Completed": true
     }
 ]
